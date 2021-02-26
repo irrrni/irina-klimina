@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+	<id>R35</id>
+	<name>Тестовый запуск 20.02.2021</name>
+	<description></description>
+	<config></config>
+	<createdon>2021-02-20T15:37:26Z</createdon>
+		<completed>false</completed>
+		<milestone></milestone>
+	<stats>
+										<passed>
+			<percent>100</percent>
+			<count>4</count>
+		</passed>
+											<blocked>
+			<percent>0</percent>
+			<count>0</count>
+		</blocked>
+											<untested>
+			<percent>0</percent>
+			<count>0</count>
+		</untested>
+											<retest>
+			<percent>0</percent>
+			<count>0</count>
+		</retest>
+											<failed>
+			<percent>0</percent>
+			<count>0</count>
+		</failed>
+																																																				</stats>	<sections>
+		<section>
+		<name>Панфилов</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>функциональный тест</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Пудник</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Тестирование юзабилити</name>
+		<description></description>
+									</section>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Проверка работы кнопки&quot;Удалить выделенные файлы из списка&quot;</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>SHIsh</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Горяйнов</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>UI</name>
+		<description></description>
+									</section>
+		<section>
+		<name>функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Гаврилова</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функц. тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Romanyuk</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Нефункциональные тесты (интерфейс пользователя).</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты (тестирование взаимодействия).</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты (удобство использования).</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты (локализация).</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Ромащёва</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Интерфейс пользователя</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Добавление в список и копирование файлов</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Удаление файлов из списка копирования</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Shanaurina</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Добавление файлов и их копирование</name>
+		<description>Проверка возможностей программы копировать файлы разных типов и объемов</description>
+									</section>
+		<section>
+		<name>Удаление файлов из списка копирования</name>
+		<description>Проверка возможностей программы удалять файлы из списка копирования</description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Нефункциональные тесты</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Удобство использования графического интерфейса</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Ермаков</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Сущенко</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>Игонин</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>GUI</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Lavrik</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Нелли К</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Проверить на удобство в использовании hardload.exe</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>климина</name>
+		<description></description>
+						<tests>
+																																																									<test>
+				<id>T2815</id>
+				<title>Egg 1_является ли предмет яйцом птицы</title>
+												<template>Test Case (Steps)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Требуется подготовить:
+- кухонный нож
+- уксусную эссенцию</preconds>
+										<steps_separated><step>
+<index>1</index><content>Визуально определяем форму</content><expected>Форма: 
+1. асимметричный эллипс, один конец несколько тупее другого
+2. если смотреть со стороны тупого или острого конца имеет форму круга
+![](index.php?/attachments/get/131)
+![](index.php?/attachments/get/132)
+</expected></step>
+<step>
+<index>2</index><content>Визуально и на ощупь определяем поверхность</content><expected>Поверхность: 
+- гладкая, допустима легкая шероховатость; 
+- матовая, допустим небольшой глянец; 
+- твердая</expected></step>
+<step>
+<index>3</index><content>Реакция взаимодействия с уксусной эссенцией</content><expected>При попадании уксусной эссенции, поверхность начинает пузыриться и шипеть</expected></step>
+<step>
+<index>4</index><content>Ударить лезвием ножа посередине объекта</content><expected>От удара раскалывается
+, при этом разделяясь на твердую тонкую ломкую оболочку и желеобразную начинку
+![](index.php?/attachments/get/134)
+</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C126</caseid>
+								<status>Passed</status>
+																<assignedto>Ирина Климина</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-20T15:46:35Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2021-02-20T15:38:20Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Форма:
+1. асимметричный эллипс, один конец несколько тупее другого
+2. если смотреть со стороны тупого или острого конца имеет форму круга</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Визуально определяем форму</content><expected>Форма: 
+1. асимметричный эллипс, один конец несколько тупее другого
+2. если смотреть со стороны тупого или острого конца имеет форму круга
+![](index.php?/attachments/get/131)
+![](index.php?/attachments/get/132)
+</expected><actual>Форма - асимметричный эллипс, один конец несколько тупее другого.
+Если смотреть со стороны тупого/острого конца имеет форму круга</actual><status>Passed</status></step>
+<step>
+<index>2</index><content>Визуально и на ощупь определяем поверхность</content><expected>Поверхность: 
+- гладкая, допустима легкая шероховатость; 
+- матовая, допустим небольшой глянец; 
+- твердая</expected><actual>Поверхность:
+- гладкая, слегка шероховатая;
+- матовая;
+- твердая</actual><status>Passed</status></step>
+<step>
+<index>3</index><content>Реакция взаимодействия с уксусной эссенцией</content><expected>При попадании уксусной эссенции, поверхность начинает пузыриться и шипеть</expected><actual>При попадании уксусной эссенции, поверхность начала пузыриться и шипеть</actual><status>Untested</status></step>
+<step>
+<index>4</index><content>Ударить лезвием ножа посередине объекта</content><expected>От удара раскалывается
+, при этом разделяясь на твердую тонкую ломкую оболочку и желеобразную начинку
+![](index.php?/attachments/get/134)
+</expected><actual>От удара оболочка раскололась на две неравные части с неровными тонкими твердыми ломкими краями. Внутри - желеобразная масса</actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T2816</id>
+				<title>Egg 1_является ли является ли яйцо куриным</title>
+												<template>Test Case (Steps)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate>1440</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Требуется подготовить:
+- гибкий измерительный инструмент (портновский сантиметр, рулетка и т.п.)
+- кухонные весы, или любые весы, пригодные для определения массы от 10 гр до 200 гр</preconds>
+										<steps_separated><step>
+<index>1</index><content>Замерить диаметры поперечный и продольный, используя гибкий измерительный инструмент</content><expected>Ожидаемый размер:
+диаметр поперечный 37-47 мм
+диаметр продольный 49-64 мм</expected></step>
+<step>
+<index>2</index><content>Взвесить яйцо, используя весы </content><expected>Ожидаемый вес 35 - 80 гр</expected></step>
+<step>
+<index>3</index><content>Определить цвет</content><expected>Ожидаемый цвет однородный, иногда с неяркими небольшими крапинами. 
+Палитра от белого через кремовый до темно коричневого, оттенки бирюзового и зеленого до болотного![](index.php?/attachments/get/136)
+![](index.php?/attachments/get/135)
+</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C133</caseid>
+								<status>Passed</status>
+																<assignedto>Ирина Климина</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-20T15:50:43Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2021-02-20T15:50:00Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+																								<assignedto>Ирина Климина</assignedto>
+																		<comment>Яйцо куриное</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Замерить диаметры поперечный и продольный, используя гибкий измерительный инструмент</content><expected>Ожидаемый размер:
+диаметр поперечный 37-47 мм
+диаметр продольный 49-64 мм</expected><actual>размеры:
+диаметр поперечный 43 мм
+диаметр продольный 61 мм</actual><status>Untested</status></step>
+<step>
+<index>2</index><content>Взвесить яйцо, используя весы </content><expected>Ожидаемый вес 35 - 80 гр</expected><actual>вес 76 гр</actual><status>Untested</status></step>
+<step>
+<index>3</index><content>Определить цвет</content><expected>Ожидаемый цвет однородный, иногда с неяркими небольшими крапинами. 
+Палитра от белого через кремовый до темно коричневого, оттенки бирюзового и зеленого до болотного![](index.php?/attachments/get/136)
+![](index.php?/attachments/get/135)
+</expected><actual>бледно бежевый, ровный без вкраплений</actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T2817</id>
+				<title>Egg 1_является ли  яйцо свежим</title>
+												<template>Test Case (Steps)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Требуется подготовить:
+- емкость, типа кастрюли на 0.5 литра или более, наполненную водой не менее чем на ширину ладони, измеряя от дна емкости
+- телефон с фонариком или фонарик</preconds>
+										<steps_separated><step>
+<index>1</index><content>Визуальный осмотр на целостность</content><expected>Отсутствие трещин, вмятин</expected></step>
+<step>
+<index>2</index><content>Взяв в руку яйцо сильно потрясти около уха</content><expected>Отсутствие бултыхания внутри яйца</expected></step>
+<step>
+<index>3</index><content>Просветить телефонным или обычным фонариком в затемненном помещении</content><expected>Яйцо светится ровным однородным
+![](index.php?/attachments/get/137)
+![](index.php?/attachments/get/138)
+светом</expected></step>
+<step>
+<index>4</index><content>Опустить яйцо в емкость, наполненную водой</content><expected>Яйцо утонет
+![](index.php?/attachments/get/139)
+</expected></step>
+<step>
+<index>5</index><content>Разбить яйцо</content><expected>Свежее яйцо
+- не пахнет
+- имеет желеподобный прозрачный белок без мясных и кровяных включений
+- имеет желток однородного цвета в диапазоне от желтого до оранжевого без посторонних включений
+![](index.php?/attachments/get/140)
+</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C135</caseid>
+								<status>Passed</status>
+																<assignedto>Ирина Климина</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-20T15:55:45Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2021-02-20T15:55:16Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Яйцо свежее</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Визуальный осмотр на целостность</content><expected>Отсутствие трещин, вмятин</expected><actual>Трещины или иные повреждения оболочки отсутствуют</actual><status>Passed</status></step>
+<step>
+<index>2</index><content>Взяв в руку яйцо сильно потрясти около уха</content><expected>Отсутствие бултыхания внутри яйца</expected><actual>Бултыхания не ощущается</actual><status>Passed</status></step>
+<step>
+<index>3</index><content>Просветить телефонным или обычным фонариком в затемненном помещении</content><expected>Яйцо светится ровным однородным
+![](index.php?/attachments/get/137)
+![](index.php?/attachments/get/138)
+светом</expected><actual>При подсвечивании фонариком яйцо светится ровным светом.</actual><status>Passed</status></step>
+<step>
+<index>4</index><content>Опустить яйцо в емкость, наполненную водой</content><expected>Яйцо утонет
+![](index.php?/attachments/get/139)
+</expected><actual>Яйцо утонуло</actual><status>Passed</status></step>
+<step>
+<index>5</index><content>Разбить яйцо</content><expected>Свежее яйцо
+- не пахнет
+- имеет желеподобный прозрачный белок без мясных и кровяных включений
+- имеет желток однородного цвета в диапазоне от желтого до оранжевого без посторонних включений
+![](index.php?/attachments/get/140)
+</expected><actual>разбитое яйцо не пахло, имело прозрачный белок и ярко-желтый желток</actual><status>Passed</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+																																																												<test>
+				<id>T2818</id>
+				<title>Egg 1_пригодно ли яйцо для сиюминутного приготовления яичницы</title>
+												<template>Test Case (Steps)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<preconds>Ровная гладкая горизонтальная поверхность, например столешница</preconds>
+										<steps_separated><step>
+<index>1</index><content>Для того, чтобы убедится в том, что яйцо не вареное и не замороженное нужно покрутить его на столешнице вокруг своей оси</content><expected>Яйцо плохо крутится и быстро останавливается</expected></step>
+</steps_separated>
+									</custom>
+												<caseid>C136</caseid>
+								<status>Passed</status>
+																<assignedto>Ирина Климина</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2021-02-20T15:57:57Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2021-02-20T15:57:06Z</createdon>
+																		<createdby>Ирина Климина</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Яйцо не вареное и не замороженное</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																														<custom>
+														<step_results><step>
+<index>1</index><content>Для того, чтобы убедится в том, что яйцо не вареное и не замороженное нужно покрутить его на столешнице вокруг своей оси</content><expected>Яйцо плохо крутится и быстро останавливается</expected><actual>Яйцо плохо крутится и быстро останавливается.</actual><status>Untested</status></step>
+</step_results>
+													</custom>
+											</change>
+									</changes>
+			</test>
+								</tests>
+								<sections>
+		<section>
+		<name>интерфейс пользователя</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>Яхонтова</name>
+		<description></description>
+										<sections>
+		<section>
+		<name>Графический интерфейс</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Функциональные тесты</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Отрицательные тесты</name>
+		<description></description>
+									</section>
+</sections>
+			</section>
+		<section>
+		<name>12</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Lavrik E</name>
+		<description></description>
+									</section>
+		<section>
+		<name>Нефункциональные тесты (локализация).</name>
+		<description></description>
+									</section>
+</sections>
+</run>
